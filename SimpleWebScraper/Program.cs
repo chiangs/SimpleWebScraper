@@ -33,11 +33,11 @@ namespace SimpleWebScraper
 
                 using (WebClient client = new WebClient())
                 {
-                    string content = client.DownloadString($"http://{clCity.Replace(" ", string.Empty)}.craigslist.org/{Method}/{clCategory}");
+                    string content = client.DownloadString($"https://{clCity.Replace(" ", string.Empty)}.craigslist.org/{Method}/{clCategory}");
 
                     ScrapeCriteria scrapeCriteria = new ScrapeCriteriaBuilder()
                         .WithData(content)
-                        .WithRegex(@"<a href=\""(.*?)\"" data-id=\""(.*?)\ class=\""result-title hldrlink\"">(.*?)</a>")
+                        .WithRegex(@"<a href=\""(.*?)\"" data-id=\""(.*?)\"" class=\""result-title hdrlnk\"">(.*?)</a>")
                         .WithRegexOption(RegexOptions.ExplicitCapture)
                         // grab description then 
                         .WithPart(new ScrapeCriteriaPartBuilder()

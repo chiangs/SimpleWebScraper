@@ -2,3 +2,10 @@
 /Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.0/SimpleWebScraper.csproj.CoreCompileInputs.cache
 /Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.0/SimpleWebScraper.AssemblyInfoInputs.cache
 /Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.0/SimpleWebScraper.AssemblyInfo.cs
+/Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.0/SimpleWebScraper.deps.json
+/Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.0/SimpleWebScraper.runtimeconfig.json
+/Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.0/SimpleWebScraper.runtimeconfig.dev.json
+/Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.0/SimpleWebScraper.dll
+/Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/bin/Debug/netcoreapp2.0/SimpleWebScraper.pdb
+/Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.0/SimpleWebScraper.dll
+/Users/dev/Courses/VisualStudio/SimpleWebScraper/SimpleWebScraper/obj/Debug/netcoreapp2.0/SimpleWebScraper.pdb
